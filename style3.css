@@ -1,0 +1,42 @@
+*{
+    margin: 0 ;
+}
+
+#men1{
+    border-style: solid;
+    text-align: center;
+    border-color: aquamarine;
+    background-color: beige;
+    border-radius: 20px;
+
+    height: 150px;
+    width: 120px;
+}
+
+.men2{
+    border-style: solid;
+    text-align: center;
+    background-color:#8565c4;
+    border-radius: 20px;
+
+    height: 150px;
+    width: 120px;
+}
+
+#text1{
+    color:#43C6DB
+}
+
+#text2{
+    color: #43C6DB;
+}
+
+.men3{
+    border-style: solid;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 20px;
+
+    height: 150px;
+    width: 120px;
+}
